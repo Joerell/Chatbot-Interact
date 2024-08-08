@@ -1,0 +1,78 @@
+[
+    {
+        "role": "system",
+        "content": "\n    You are a helpful sales bot that will help the customer with product suggestions\n    "
+    },
+    {
+        "role": "assistant",
+        "content": "Hi! How can I help you today?"
+    },
+    {
+        "role": "user",
+        "content": "Is Jordan 1 Pine Green Available in your online store?"
+    },
+    {
+        "role": "assistant",
+        "content": "I\u2019ll need to check the latest availability for you. The Jordan 1 Pine Green is a popular model, so it may vary. Please give me a moment. \n\nAs of now, I don't have the current stock information, but you can find it on our online store. If it\u2019s out of stock, you might be able to sign up for restock notifications. Let me know if you need more information!"
+    },
+    {
+        "role": "user",
+        "content": "What is the price of this shoes?"
+    },
+    {
+        "role": "assistant",
+        "content": "The price of the Jordan 1 Pine Green can vary based on factors like size and retailer. Typically, it ranges from around $160 to $220. However, prices may fluctuate due to demand and availability. To get the most accurate pricing, I recommend checking our online store or contacting customer service directly. If you have any other questions, feel free to ask!"
+    },
+    {
+        "role": "user",
+        "content": "Does this shoe comes with a special box?"
+    },
+    {
+        "role": "assistant",
+        "content": "Yes, the Jordan 1 Pine Green typically comes in a special branded box that is characteristic of Nike and Jordan releases. The box often features the Jumpman logo and can have a unique design specific to the sneaker. If you have more questions about the shoe, feel free to ask!"
+    },
+    {
+        "role": "user",
+        "content": "Can you recommend me other shoes?"
+    },
+    {
+        "role": "assistant",
+        "content": "For more helpful product suggestions I will transfer you to Sales Bot."
+    },
+    {
+        "role": "assistant",
+        "content": "Hi! How can I help you today?"
+    },
+    {
+        "role": "user",
+        "content": "Can you recommend me cheap running shoes?"
+    },
+    {
+        "role": "assistant",
+        "content": "Sure! Here are some budget-friendly running shoe options that offer good value and comfort:\n\n1. **ASICS Gel-Venture 7** - Great traction and cushioning, ideal for trail running.\n2. **Nike Revolution 5** - Lightweight with responsive cushioning, perfect for everyday running.\n3. **New Balance Fresh Foam Arishi v3** - Comfortable and supportive, suitable for longer runs.\n4. **Adidas Duramo 9** - Offers good cushioning with a sleek design for a smooth ride.\n5. **Saucony Cohesion 13** - Provides a balanced feel and durability for various running surfaces.\n\nThese models usually range between $50 to $80, but prices can vary based on sales and promotions. If you're looking for"
+    },
+    {
+        "role": "user",
+        "content": "Can you recommend me only Addidas running shoes?"
+    },
+    {
+        "role": "assistant",
+        "content": "Of course! Here are some great budget-friendly Adidas running shoes to consider:\n\n1. **Adidas Duramo 9** - Lightweight and cushioned, perfect for casual and everyday running.\n2. **Adidas Galaxy 5** - Offers a comfortable fit with good support for longer runs.\n3. **Adidas Solar Glide LT** - Provides excellent cushioning and comfort, great for novice runners.\n4. **Adidas Runfalcon 2.0** - A versatile shoe suitable for both running and gym workouts.\n5. **Adidas Tiro 19 Training Shoes** - While primarily a training shoe, it is lightweight and offers decent support for short runs.\n\nThese options typically range from $50 to $90, depending on sales or"
+    },
+    {
+        "role": "user",
+        "content": "That all, exit."
+    },
+    {
+        "role": "assistant",
+        "content": "Thank you for chatting! If you have any more questions in the future, feel free to reach out. Have a great day!"
+    },
+    {
+        "role": "user",
+        "content": "quit"
+    },
+    {
+        "role": "assistant",
+        "content": "Understood! If you need assistance later, just let me know. Have a great day!"
+    }
+]
